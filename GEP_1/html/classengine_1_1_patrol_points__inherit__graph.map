@@ -1,5 +1,0 @@
-<map id="engine::PatrolPoints" name="engine::PatrolPoints">
-<area shape="rect" id="node2" href="$classengine_1_1_component.html" title="{engine::Component\n|+ gameObject\l|+ ~Component()\l+ getGameObject()\l+ update()\l+ update()\l+ Render()\l+ Render()\l+ Awake()\l+ SetPosition()\l}" alt="" coords="17,388,151,568"/>
-<area shape="rect" id="node3" href="$classengine_1_1_object.html" title="{engine::Object\n|+ name\l|+ Object()\l+ ~Object()\l+ setName()\l+ getName()\l+ awake()\l+ dontDestroyOnLoad()\l+ dontDestroyOnLoad()\l+ destroy()\l+ destroy()\l}" alt="" coords="5,145,163,340"/>
-<area shape="rect" id="node4" href="$classenable__ref.html" title="{enable_ref\n|+ self\l|+ enable_ref()\l+ ~enable_ref()\l}" alt="" coords="29,5,139,97"/>
-</map>

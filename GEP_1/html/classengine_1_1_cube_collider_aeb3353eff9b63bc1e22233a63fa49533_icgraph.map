@@ -1,4 +1,0 @@
-<map id="engine::CubeCollider::getAABB" name="engine::CubeCollider::getAABB">
-<area shape="rect" id="node2" href="$classengine_1_1_cube_collider.html#a0c27a0a93f29a8e3333038a4bcc719db" title="engine::CubeCollider\l::VSSphere" alt="" coords="200,5,341,47"/>
-<area shape="rect" id="node3" href="$classengine_1_1_sphere_collider.html#a3162ce5a58f9e74041abde555b4f9c22" title="engine::SphereCollider\l::VSCube" alt="" coords="195,71,347,112"/>
-</map>

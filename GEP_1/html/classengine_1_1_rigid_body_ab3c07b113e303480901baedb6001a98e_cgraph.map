@@ -1,6 +1,0 @@
-<map id="engine::RigidBody::hasCollider" name="engine::RigidBody::hasCollider">
-<area shape="rect" id="node2" href="$classengine_1_1_game_object.html#a971cfefac02a84d094b64b006c7fa311" title="engine::GameObject\l::GetComponent" alt="" coords="188,39,329,80"/>
-<area shape="rect" id="node3" href="$classengine_1_1_game_object.html#a222ceaac6436083524b56e2be2fdd877" title="engine::GameObject\l::addComponent" alt="" coords="377,5,519,47"/>
-<area shape="rect" id="node5" href="$classengine_1_1_game_object.html#a3bff17f8cd4381c8c0aeb2f6c48c96e0" title="engine::GameObject\l::removeComponent" alt="" coords="377,71,519,112"/>
-<area shape="rect" id="node4" href="$classengine_1_1_component.html#a2cde6168ef01b97413e4ad7ee0f58064" title="engine::Component::\lAwake" alt="" coords="567,5,709,47"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="engine::GameObject::GetComponent" name="engine::GameObject::GetComponent">
-<area shape="rect" id="node2" href="$classengine_1_1_game_object.html#a222ceaac6436083524b56e2be2fdd877" title="engine::GameObject\l::addComponent" alt="" coords="195,5,336,47"/>
-<area shape="rect" id="node4" href="$classengine_1_1_game_object.html#a3bff17f8cd4381c8c0aeb2f6c48c96e0" title="engine::GameObject\l::removeComponent" alt="" coords="195,71,336,112"/>
-<area shape="rect" id="node3" href="$classengine_1_1_component.html#a2cde6168ef01b97413e4ad7ee0f58064" title="engine::Component::\lAwake" alt="" coords="384,5,527,47"/>
-</map>

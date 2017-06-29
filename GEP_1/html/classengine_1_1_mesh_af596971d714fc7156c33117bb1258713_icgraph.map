@@ -1,9 +1,0 @@
-<map id="engine::Mesh::Render" name="engine::Mesh::Render">
-<area shape="rect" id="node2" href="$classengine_1_1_mesh.html#a5f89ee0eef1b4691e3efef113644a4e1" title="engine::Mesh::getMeshVerticies" alt="" coords="203,46,412,73"/>
-<area shape="rect" id="node8" href="$classengine_1_1_mesh_renderer.html#a1cb765e7da98596473c106e07fb9bb76" title="engine::MeshRenderer\l::Render" alt="" coords="231,97,383,139"/>
-<area shape="rect" id="node3" href="$classengine_1_1_cube_collider.html#a8360dc9f8ddc4db3a321027993c47a27" title="engine::CubeCollider\l::createBounds" alt="" coords="465,5,607,47"/>
-<area shape="rect" id="node7" href="$classengine_1_1_sphere_collider.html#a63720df0c7530979a302a138812cffe6" title="engine::SphereCollider\l::createBounds" alt="" coords="460,71,612,112"/>
-<area shape="rect" id="node4" href="$classengine_1_1_cube_collider.html#aeb3353eff9b63bc1e22233a63fa49533" title="engine::CubeCollider\l::getAABB" alt="" coords="660,5,801,47"/>
-<area shape="rect" id="node5" href="$classengine_1_1_cube_collider.html#a0c27a0a93f29a8e3333038a4bcc719db" title="engine::CubeCollider\l::VSSphere" alt="" coords="855,5,996,47"/>
-<area shape="rect" id="node6" href="$classengine_1_1_sphere_collider.html#a3162ce5a58f9e74041abde555b4f9c22" title="engine::SphereCollider\l::VSCube" alt="" coords="849,71,1001,112"/>
-</map>

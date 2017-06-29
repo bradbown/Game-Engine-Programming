@@ -1,5 +1,0 @@
-<map id="engine::GameObject::getTransform" name="engine::GameObject::getTransform">
-<area shape="rect" id="node2" href="$classengine_1_1_mesh_renderer.html#aeb1dcc739f141123d407be86ff664de1" title="engine::MeshRenderer\l::update" alt="" coords="195,5,347,47"/>
-<area shape="rect" id="node3" href="$classengine_1_1_rigid_body.html#a6b0c444b66e9eb0950127ceeb70c40a8" title="engine::RigidBody::\lupdate" alt="" coords="203,71,338,112"/>
-<area shape="rect" id="node4" href="$classengine_1_1_sphere_collider.html#a7e010b2e15d63d0af3aca7d1d66ad399" title="engine::SphereCollider\l::getScaledRadius" alt="" coords="195,136,347,177"/>
-</map>

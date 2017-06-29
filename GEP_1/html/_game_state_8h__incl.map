@@ -1,9 +1,0 @@
-<map id="GameState.h" name="GameState.h">
-<area shape="rect" id="node3" href="$_input_8h.html" title="Input.h" alt="" coords="127,155,188,181"/>
-<area shape="rect" id="node10" href="$_camera_8h.html" title="Camera.h" alt="" coords="461,80,539,107"/>
-<area shape="rect" id="node5" href="$ref_8h.html" title="ref.h" alt="" coords="139,379,186,405"/>
-<area shape="rect" id="node13" href="$glew_8h.html" title="glew.h" alt="" coords="569,155,628,181"/>
-<area shape="rect" id="node17" href="$_component_8h.html" title="Component.h" alt="" coords="211,229,309,256"/>
-<area shape="rect" id="node19" href="$_transform_8h.html" title="Transform.h" alt="" coords="455,155,545,181"/>
-<area shape="rect" id="node18" href="$_object_8h.html" title="Object.h" alt="" coords="199,304,270,331"/>
-</map>

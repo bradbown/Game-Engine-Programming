@@ -1,5 +1,0 @@
-<map id="engine::Component::update" name="engine::Component::update">
-<area shape="rect" id="node2" href="$classengine_1_1_component.html#a173364d62f9ddc91002ec61ea6858e3c" title="engine::Component::\lRender" alt="" coords="196,5,339,47"/>
-<area shape="rect" id="node3" href="$classengine_1_1_component.html#a2cde6168ef01b97413e4ad7ee0f58064" title="engine::Component::\lAwake" alt="" coords="196,71,339,112"/>
-<area shape="rect" id="node4" href="$classengine_1_1_component.html#a008bbfa07b085648ba615c2daed29aed" title="engine::Component::\lSetPosition" alt="" coords="196,136,339,177"/>
-</map>

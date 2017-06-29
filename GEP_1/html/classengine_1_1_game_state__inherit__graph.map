@@ -1,3 +1,0 @@
-<map id="engine::GameState" name="engine::GameState">
-<area shape="rect" id="node2" href="$classengine_1_1_application.html" title="{engine::Application\n|+ shader\l+ gameObjects\l+ textures\l+ meshes\l+ sphere_vao\l+ scene_1\l+ scene_2\l+ currentState\l# window\l# context\l# renderer\l# input\l# camera\l# width\l# height\l|+ Application()\l+ Application()\l+ ~Application()\l+ init()\l+ destroy()\l+ run()\l+ quit()\l+ setTitle()\l+ addGameObject()\l+ removeGameObject()\l}" alt="" coords="5,248,161,663"/>
-</map>
