@@ -1,0 +1,7 @@
+<map id="engine::Collider" name="engine::Collider">
+<area shape="rect" id="node5" href="$classengine_1_1_cube_collider.html" title="{engine::CubeCollider\n||+ CubeCollider()\l+ ~CubeCollider()\l+ getAABB()\l+ createBounds()\l+ VSCube()\l+ VSSphere()\l}" alt="" coords="5,829,147,980"/>
+<area shape="rect" id="node6" href="$classengine_1_1_sphere_collider.html" title="{engine::SphereCollider\n|+ radius\l|+ SphereCollider()\l+ ~SphereCollider()\l+ VSSphere()\l+ VSCube()\l+ createBounds()\l+ getScaledRadius()\l}" alt="" coords="171,829,323,980"/>
+<area shape="rect" id="node2" href="$classengine_1_1_component.html" title="{engine::Component\n|+ gameObject\l|+ ~Component()\l+ getGameObject()\l+ update()\l+ update()\l+ Render()\l+ Render()\l+ Awake()\l+ SetPosition()\l}" alt="" coords="94,388,229,568"/>
+<area shape="rect" id="node3" href="$classengine_1_1_object.html" title="{engine::Object\n|+ name\l|+ Object()\l+ ~Object()\l+ setName()\l+ getName()\l+ awake()\l+ dontDestroyOnLoad()\l+ dontDestroyOnLoad()\l+ destroy()\l+ destroy()\l}" alt="" coords="83,145,240,340"/>
+<area shape="rect" id="node4" href="$classenable__ref.html" title="{enable_ref\n|+ self\l|+ enable_ref()\l+ ~enable_ref()\l}" alt="" coords="107,5,216,97"/>
+</map>

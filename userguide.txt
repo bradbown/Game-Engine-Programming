@@ -1,0 +1,29 @@
+User Guide
+
+Controls:
+
+Camera
+
+W - Forward
+S - Backward
+A - Left
+D - Right
+SPACE - Up
+Q - Down
+
+Aim camera with mouse movement
+
+In the scene there are:
+	4 static cubes (they don't react to collisions VSCubes and VSSpheres)
+	4 dynamic cubes (react to collisions VSCubes and VSSpheres)
+	15 dynamic spheres (react to collisions VSCubes and VSSpheres)
+These can be changed by altering the iterations per for loop in application::init()
+
+State Switch
+
+1 number key - Assignment 1 sphere/cube collision
+2 number key - Assignment 2 AI Demo
+
+In the scene there are:
+	Mutliple: Gold, Wolves, Bushes, invisible patrol points, 1 Leprechaun and 1 house
+These can be changed by altering the iterations per for loop in application::init()

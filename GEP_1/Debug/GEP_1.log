@@ -1,0 +1,97 @@
+﻿Build started 3/4/2017 04:59:39.
+     1>Project "F:\Year 3\Games Engine Programming\GEP_2\GEP_1\GEP_1\GEP_1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"..\SDKs\glew-2.0.0\include" /I"..\SDKs\SDL2_image-2.0.0\include" /I"..\SDKs\SDL2-2.0.4\include" /I"..\SDKs\SDL2_image-2.0.0\include" /I..\SDKs\glm /I"..\SDKs\SDL2-2.0.4\include" /I"F:\Year 3\Games Engine Programming\GEP_1\SDKs\glew-2.0.0\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Application.cpp Bush.cpp Camera.cpp Collider.cpp Component.cpp CubeCollider.cpp FiniteStateMachine.cpp GameObject.cpp GameState.cpp Gold.cpp House.cpp Input.cpp Leprechaun.cpp main.cpp Mesh.cpp MeshRenderer.cpp Object.cpp ObjLoader.cpp PatrolPoints.cpp ref.cpp RigidBody.cpp Shader.cpp SphereCollider.cpp Texture.cpp Transform.cpp Wolf.cpp
+         Wolf.cpp
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\wolf.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\wolf.cpp(92): warning C4305: '=': truncation from 'double' to 'float'
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\wolf.cpp(108): warning C4305: '=': truncation from 'double' to 'float'
+         Transform.cpp
+         Texture.cpp
+         SphereCollider.cpp
+         Shader.cpp
+         RigidBody.cpp
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\rigidbody.cpp(9): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+         ref.cpp
+         PatrolPoints.cpp
+         ObjLoader.cpp
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\objloader.cpp(22): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\objloader.cpp(90): warning C4018: '<': signed/unsigned mismatch
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\objloader.cpp(111): warning C4018: '<': signed/unsigned mismatch
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\objloader.cpp(159): warning C4018: '<': signed/unsigned mismatch
+         Object.cpp
+         MeshRenderer.cpp
+         Mesh.cpp
+         main.cpp
+         Leprechaun.cpp
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\leprechaun.cpp(30): warning C4244: '=': conversion from 'size_t' to 'float', possible loss of data
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\leprechaun.cpp(35): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\leprechaun.cpp(36): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\leprechaun.cpp(44): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\leprechaun.cpp(45): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\leprechaun.cpp(78): warning C4305: '=': truncation from 'double' to 'float'
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\leprechaun.cpp(86): warning C4244: '=': conversion from 'size_t' to 'float', possible loss of data
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\leprechaun.cpp(91): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\leprechaun.cpp(92): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+         Input.cpp
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\input.cpp(99): warning C4018: '<': signed/unsigned mismatch
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\input.cpp(111): warning C4018: '<': signed/unsigned mismatch
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\input.cpp(123): warning C4018: '<': signed/unsigned mismatch
+         House.cpp
+         Gold.cpp
+         GameState.cpp
+         GameObject.cpp
+         FiniteStateMachine.cpp
+         Generating Code...
+         Compiling...
+         CubeCollider.cpp
+         Component.cpp
+         Collider.cpp
+         Camera.cpp
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\camera.cpp(93): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\camera.cpp(98): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+         Bush.cpp
+         Application.cpp
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\application.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\application.cpp(65): warning C4316: 'engine::Camera': object allocated on the heap may not be aligned 16
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\application.cpp(130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>f:\year 3\games engine programming\gep_2\gep_1\gep_1\gameobject.h(38): warning C4316: 'engine::MeshRenderer': object allocated on the heap may not be aligned 16
+         f:\year 3\games engine programming\gep_2\gep_1\gep_1\application.cpp(121): note: see reference to function template instantiation 'T *engine::GameObject::AddComponent<engine::MeshRenderer>(void)' being compiled
+                 with
+                 [
+                     T=engine::MeshRenderer
+                 ]
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Year 3\Games Engine Programming\GEP_2\GEP_1\Debug\GEP_1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"..\SDKs\glew-2.0.0\lib\Release\Win32" /LIBPATH:"..\SDKs\SDL2_image-2.0.0\lib\x86" /LIBPATH:"..\SDKs\SDL2-2.0.4\lib\x86" /LIBPATH:"..\SDKs\SDL2_image-2.0.0\lib\x86" /LIBPATH:"..\SDKs\SDL2-2.0.4\lib\x86" /LIBPATH:"..\SDKs\glew-2.0.0\lib\Release\Win32" opengl32.lib glew32.lib SDL2.lib SDL2main.lib SDL2_image.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\Year 3\Games Engine Programming\GEP_2\GEP_1\Debug\GEP_1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Year 3\Games Engine Programming\GEP_2\GEP_1\Debug\GEP_1.lib" /MACHINE:X86 Debug\Application.obj
+         Debug\Bush.obj
+         Debug\Camera.obj
+         Debug\Collider.obj
+         Debug\Component.obj
+         Debug\CubeCollider.obj
+         Debug\FiniteStateMachine.obj
+         Debug\GameObject.obj
+         Debug\GameState.obj
+         Debug\Gold.obj
+         Debug\House.obj
+         Debug\Input.obj
+         Debug\Leprechaun.obj
+         Debug\main.obj
+         Debug\Mesh.obj
+         Debug\MeshRenderer.obj
+         Debug\Object.obj
+         Debug\ObjLoader.obj
+         Debug\PatrolPoints.obj
+         Debug\ref.obj
+         Debug\RigidBody.obj
+         Debug\Shader.obj
+         Debug\SphereCollider.obj
+         Debug\Texture.obj
+         Debug\Transform.obj
+         Debug\Wolf.obj
+         GEP_1.vcxproj -> F:\Year 3\Games Engine Programming\GEP_2\GEP_1\Debug\GEP_1.exe
+     1>Done Building Project "F:\Year 3\Games Engine Programming\GEP_2\GEP_1\GEP_1\GEP_1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:17.73

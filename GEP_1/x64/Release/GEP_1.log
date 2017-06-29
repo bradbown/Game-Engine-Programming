@@ -1,0 +1,146 @@
+﻿Build started 24/4/2017 12:39:36.
+     1>Project "G:\Year 3\Games Engine Programming\GEP_2\GEP_1\GEP_1\GEP_1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"G:\Year 3\Games Engine Programming\GEP_2\GEP_1\SDKs\glm" /I"G:\Year 3\Games Engine Programming\GEP_2\GEP_1\SDKs\glew-2.0.0\include" /I"G:\Year 3\Games Engine Programming\GEP_2\GEP_1\SDKs\SDL2_image-2.0.0\include" /I"G:\Year 3\Games Engine Programming\GEP_2\GEP_1\SDKs\SDL2-2.0.4\include" /Zi /nologo /W3 /WX- /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt Application.cpp Bush.cpp Camera.cpp Collider.cpp Component.cpp CubeCollider.cpp FiniteStateMachine.cpp GameObject.cpp GameState.cpp Gold.cpp House.cpp Input.cpp Leprechaun.cpp main.cpp Mesh.cpp MeshRenderer.cpp Object.cpp ObjLoader.cpp PatrolPoints.cpp ref.cpp RigidBody.cpp Shader.cpp SphereCollider.cpp Texture.cpp Transform.cpp Wolf.cpp
+         Application.cpp
+     1>Application.cpp(37): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>Application.cpp(130): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         Bush.cpp
+         Camera.cpp
+     1>Camera.cpp(93): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Camera.cpp(98): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+         Collider.cpp
+         Component.cpp
+         CubeCollider.cpp
+         FiniteStateMachine.cpp
+         GameObject.cpp
+         GameState.cpp
+         Gold.cpp
+         House.cpp
+         Input.cpp
+         Leprechaun.cpp
+     1>Leprechaun.cpp(30): warning C4244: '=' : conversion from 'size_t' to 'float', possible loss of data
+     1>Leprechaun.cpp(35): warning C4244: 'argument' : conversion from 'float' to 'unsigned __int64', possible loss of data
+     1>Leprechaun.cpp(36): warning C4244: 'argument' : conversion from 'float' to 'unsigned __int64', possible loss of data
+     1>Leprechaun.cpp(44): warning C4244: 'argument' : conversion from 'float' to 'unsigned __int64', possible loss of data
+     1>Leprechaun.cpp(45): warning C4244: 'argument' : conversion from 'float' to 'unsigned __int64', possible loss of data
+     1>Leprechaun.cpp(59): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Leprechaun.cpp(78): warning C4305: '=' : truncation from 'double' to 'float'
+     1>Leprechaun.cpp(86): warning C4244: '=' : conversion from 'size_t' to 'float', possible loss of data
+     1>Leprechaun.cpp(91): warning C4244: 'argument' : conversion from 'float' to 'unsigned __int64', possible loss of data
+     1>Leprechaun.cpp(92): warning C4244: 'argument' : conversion from 'float' to 'unsigned __int64', possible loss of data
+         main.cpp
+         Mesh.cpp
+     1>Mesh.cpp(110): warning C4267: '=' : conversion from 'size_t' to 'unsigned int', possible loss of data
+     1>Mesh.cpp(150): warning C4267: '=' : conversion from 'size_t' to 'unsigned int', possible loss of data
+         MeshRenderer.cpp
+         Object.cpp
+         ObjLoader.cpp
+         PatrolPoints.cpp
+         ref.cpp
+         Compiling...
+         RigidBody.cpp
+     1>RigidBody.cpp(9): warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+         Shader.cpp
+         SphereCollider.cpp
+         Texture.cpp
+         Transform.cpp
+         Wolf.cpp
+     1>Wolf.cpp(13): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>Wolf.cpp(34): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Wolf.cpp(92): warning C4305: '=' : truncation from 'double' to 'float'
+     1>Wolf.cpp(108): warning C4305: '=' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Year 3\Games Engine Programming\GEP_2\GEP_1\x64\Release\GEP_1.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"G:\Year 3\Games Engine Programming\GEP_2\GEP_1\SDKs\glew-2.0.0\lib\Release\Win32" /LIBPATH:"G:\Year 3\Games Engine Programming\GEP_2\GEP_1\SDKs\SDL2_image-2.0.0\lib\x86" /LIBPATH:"G:\Year 3\Games Engine Programming\GEP_2\GEP_1\SDKs\SDL2-2.0.4\lib\x86" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Year 3\Games Engine Programming\GEP_2\GEP_1\x64\Release\GEP_1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Year 3\Games Engine Programming\GEP_2\GEP_1\x64\Release\GEP_1.lib" /MACHINE:X64 x64\Release\Application.obj
+         x64\Release\Bush.obj
+         x64\Release\Camera.obj
+         x64\Release\Collider.obj
+         x64\Release\Component.obj
+         x64\Release\CubeCollider.obj
+         x64\Release\FiniteStateMachine.obj
+         x64\Release\GameObject.obj
+         x64\Release\GameState.obj
+         x64\Release\Gold.obj
+         x64\Release\House.obj
+         x64\Release\Input.obj
+         x64\Release\Leprechaun.obj
+         x64\Release\main.obj
+         x64\Release\Mesh.obj
+         x64\Release\MeshRenderer.obj
+         x64\Release\Object.obj
+         x64\Release\ObjLoader.obj
+         x64\Release\PatrolPoints.obj
+         x64\Release\ref.obj
+         x64\Release\RigidBody.obj
+         x64\Release\Shader.obj
+         x64\Release\SphereCollider.obj
+         x64\Release\Texture.obj
+         x64\Release\Transform.obj
+         x64\Release\Wolf.obj
+     1>Application.obj : error LNK2001: unresolved external symbol __imp_glClear
+     1>Application.obj : error LNK2001: unresolved external symbol __imp_glClearColor
+     1>Application.obj : error LNK2001: unresolved external symbol SDL_Init
+     1>Application.obj : error LNK2001: unresolved external symbol SDL_DestroyWindow
+     1>Application.obj : error LNK2001: unresolved external symbol SDL_GL_DeleteContext
+     1>Application.obj : error LNK2001: unresolved external symbol __imp_glewInit
+     1>Application.obj : error LNK2001: unresolved external symbol SDL_GL_SwapWindow
+     1>Application.obj : error LNK2001: unresolved external symbol __imp_glewGetString
+     1>Application.obj : error LNK2001: unresolved external symbol SDL_CreateWindow
+     1>Application.obj : error LNK2001: unresolved external symbol SDL_DestroyRenderer
+     1>Application.obj : error LNK2001: unresolved external symbol SDL_ShowCursor
+     1>Application.obj : error LNK2001: unresolved external symbol __imp_glGetString
+     1>Application.obj : error LNK2001: unresolved external symbol SDL_GL_CreateContext
+     1>Application.obj : error LNK2001: unresolved external symbol __imp_glewGetErrorString
+     1>Application.obj : error LNK2001: unresolved external symbol __imp_glCullFace
+     1>Application.obj : error LNK2001: unresolved external symbol __imp_glewExperimental
+     1>Application.obj : error LNK2001: unresolved external symbol SDL_Delay
+     1>Application.obj : error LNK2001: unresolved external symbol SDL_CreateRenderer
+     1>Application.obj : error LNK2001: unresolved external symbol __imp_glViewport
+     1>Application.obj : error LNK2001: unresolved external symbol SDL_GetTicks
+     1>Application.obj : error LNK2001: unresolved external symbol SDL_GL_SetAttribute
+     1>Application.obj : error LNK2001: unresolved external symbol __imp_glEnable
+     1>Application.obj : error LNK2001: unresolved external symbol SDL_SetWindowTitle
+     1>Camera.obj : error LNK2001: unresolved external symbol SDL_WarpMouseInWindow
+     1>Camera.obj : error LNK2001: unresolved external symbol SDL_GetMouseState
+     1>Camera.obj : error LNK2001: unresolved external symbol __imp_glRotatef
+     1>Camera.obj : error LNK2001: unresolved external symbol __imp_glTranslatef
+     1>Input.obj : error LNK2001: unresolved external symbol SDL_PollEvent
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp___glewActiveTexture
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp___glewUniform3f
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp___glewGenVertexArrays
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp_glBindTexture
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp___glewBindVertexArray
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp_glDrawArrays
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp___glewUniformMatrix4fv
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp___glewUniformMatrix3fv
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp___glewDisableVertexAttribArray
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp___glewUniform1i
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+     1>Mesh.obj : error LNK2001: unresolved external symbol __imp___glewGetUniformLocation
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderInfoLog
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramiv
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderiv
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramInfoLog
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+     1>Texture.obj : error LNK2001: unresolved external symbol __imp_glTexImage2D
+     1>Texture.obj : error LNK2001: unresolved external symbol __imp_glTexParameteri
+     1>Texture.obj : error LNK2001: unresolved external symbol SDL_GetError
+     1>Texture.obj : error LNK2001: unresolved external symbol __imp_glGenTextures
+     1>Texture.obj : error LNK2001: unresolved external symbol IMG_Load
+     1>MSVCRT.lib(crtexe.obj) : error LNK2001: unresolved external symbol main
+     1>G:\Year 3\Games Engine Programming\GEP_2\GEP_1\x64\Release\GEP_1.exe : fatal error LNK1120: 61 unresolved externals
+     1>Done Building Project "G:\Year 3\Games Engine Programming\GEP_2\GEP_1\GEP_1\GEP_1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:20.03

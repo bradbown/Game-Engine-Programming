@@ -1,0 +1,4 @@
+<map id="engine::SphereCollider::getScaledRadius" name="engine::SphereCollider::getScaledRadius">
+<area shape="rect" id="node2" href="$classengine_1_1_game_object.html#abab7a4a1903c30e601d7ca989195da06" title="engine::GameObject\l::getTransform" alt="" coords="205,5,347,47"/>
+<area shape="rect" id="node3" href="$classengine_1_1_transform.html#a7c2b55557c4ab20fd760fa6ea177fbc9" title="engine::Transform::\lgetScale" alt="" coords="209,71,343,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="engine::Gold" name="engine::Gold">
+<area shape="rect" id="node2" href="$classengine_1_1_component.html" title="{engine::Component\n||+ ~Component()\l+ getGameObject()\l+ update()\l+ update()\l+ Render()\l+ Render()\l+ Awake()\l+ SetPosition()\l}" alt="" coords="113,793,247,973"/>
+<area shape="rect" id="node3" href="$classengine_1_1_object.html" title="{engine::Object\n|+ name\l|+ Object()\l+ ~Object()\l+ setName()\l+ getName()\l+ awake()\l+ dontDestroyOnLoad()\l+ dontDestroyOnLoad()\l+ destroy()\l+ destroy()\l}" alt="" coords="155,161,312,356"/>
+<area shape="rect" id="node5" href="$classengine_1_1_game_object.html" title="{engine::GameObject\n|+ ID\l|+ GameObject()\l+ GameObject()\l+ ~GameObject()\l+ Render()\l+ Render()\l+ SetPosition()\l+ getTransform()\l+ Awake()\l+ update()\l+ update()\l+ AddComponent()\l+ GetComponent()\l+ addComponent()\l+ removeComponent()\l+ create()\l+ create()\l}" alt="" coords="47,433,196,731"/>
+<area shape="rect" id="node4" href="$classenable__ref.html" title="{enable_ref\n|+ self\l|+ enable_ref()\l+ ~enable_ref()\l}" alt="" coords="179,5,288,97"/>
+<area shape="rect" id="node6" href="$classengine_1_1_transform.html" title="{engine::Transform\n||+ Transform()\l+ ~Transform()\l+ getPosition()\l+ getRotation()\l+ getScale()\l+ setPostion()\l+ setRotation()\l+ setScale()\l+ rotate()\l+ translate()\l+ translate()\l}" alt="" coords="5,147,131,371"/>
+</map>
